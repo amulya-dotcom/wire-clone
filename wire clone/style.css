@@ -1,0 +1,17 @@
+.navbar{
+    background-color: white !important;
+}
+
+.hero-image{
+    width: 35em;
+}
+
+.brand-image{
+    width: 40px !important;
+}
+
+@media screen and (max-width : 576px) {
+    .hero-image{
+        width: 25em;
+    }
+}
